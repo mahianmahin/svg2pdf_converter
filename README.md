@@ -4,14 +4,14 @@ To build the Container run
 docker build -t <image_name> .
 ```
 
-To run the container
 
+To generate the pdf into the Container
 ```bash
-docker run <image_name>
+docker run --rm -it -v $(pwd):/app <image_name> python svg-converter-service.py
 ```
 
-To bash into the Ccontainer
 
+To run /bash the container
 ```bash
-docker run -t <image_name> /bin/bash
+docker run --rm -it -v $(pwd):/app <image_name> /bin/bash
 ```
