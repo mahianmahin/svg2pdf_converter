@@ -13,5 +13,5 @@ docker run --rm -it -v $(pwd):/app <image_name> python svg-converter-service.py
 
 To run /bash the container
 ```bash
-docker run --rm -it -v $(pwd):/app <image_name> python svg-converter-service.py
+docker run --rm -it -v $(pwd):/app <image_name> /bin/bash
 ```
