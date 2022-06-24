@@ -51,7 +51,7 @@ def svg_to_pdf():
 	title_box = root.xpath('//*[@id="text:title"]')
 	title_box[0].attrib['style'] = "font-size:4; font-family:Montserrat"
 
-	if dict['text:title'] >= 26:
+	if len(dict['text:title']) >= 26:
 		title_box[0].attrib['style'] = "font-size:5;"
 
 	cairosvg.svg2pdf(bytestring=etree.tostring(root), write_to="output.pdf")
