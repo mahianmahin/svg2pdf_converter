@@ -34,3 +34,5 @@ docker run --rm -it -v $(pwd):/app <image_name> /bin/bash
 >First, edit the 'sample.json' file according to your needs and then run the container. A pdf file named 'output.pdf' will be generated afterwards. If a pdf file already exists, it will be overwritten by the latest one.
 
 >Don't change the key names of the json file
+
+>Add the font files you want to use in the 'fonts' directory and it will get installed during docker image building 
