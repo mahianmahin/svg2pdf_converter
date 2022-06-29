@@ -5,5 +5,8 @@ RUN mkdir app
 WORKDIR /app
 COPY . /app
 
+RUN mkdir -p /usr/share/fonts/
+RUN python3 install_fonts.py
+
 RUN pip install -r requirements.txt
 CMD python3 svg-converter-service.py

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg37368"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="text-only.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37370"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.71928599"
+     inkscape:cx="367.03065"
+     inkscape:cy="506.05741"
+     inkscape:window-width="1417"
+     inkscape:window-height="974"
+     inkscape:window-x="55"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="50,236.43701"
+       orientation="-1,0"
+       id="guide38215"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs37365">
+    <rect
+       x="187.2437"
+       y="394.9406"
+       width="263.04682"
+       height="200.43532"
+       id="rect7537" />
+    <rect
+       x="234.82955"
+       y="262.10772"
+       width="115.04276"
+       height="40.324265"
+       id="rect38947" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-opacity:1;stop-color:#000000"
+       id="rect38943"
+       width="101.25058"
+       height="12.238118"
+       x="50"
+       y="27.928015" />
+    <text
+       xml:space="preserve"
+       id="text:title"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Cinzel';-inkscape-font-specification:'Open Sans Regular';text-align:start;white-space:pre;shape-inside:url(#rect38943);display:inline"
+       x="-19.655634"
+       y="0"><tspan
+         x="50"
+         y="35.429619"
+         id="tspan7647">Title</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:'Open Sans Regular';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="49.601849"
+       y="56.476852"
+       id="text:subtitle"><tspan
+         sodipodi:role="line"
+         id="tspan41145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Regular';text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="49.601849"
+         y="56.476852">Subtitle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583;-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="49.541561"
+       y="72.787369"
+       id="text:student-name"><tspan
+         sodipodi:role="line"
+         id="tspan41149"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="49.541561"
+         y="72.787369">Student name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:'Open Sans';text-align:start;text-anchor:start;stroke-width:0.264583;-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="49.541561"
+       y="84.958199"
+       id="text:student-id"><tspan
+         sodipodi:role="line"
+         id="tspan41149-2"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583;-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="49.541561"
+         y="84.958199">ABC0123456789</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.15;stroke-linecap:round;stroke-opacity:1;stop-color:#000000"
+       id="rect46297"
+       width="104.21006"
+       height="102.29812"
+       x="49.864712"
+       y="132.10892" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:'Cinzel';-inkscape-font-specification:'Open Sans';text-align:start;white-space:pre;shape-inside:url(#rect46297);display:inline;stroke-width:0.264583"
+       x="45.95314"
+       y="248.52792"
+       id="text:instructions"
+       transform="translate(0,42.333335)"><tspan
+         x="49.865234"
+         y="136.48548"
+         id="tspan7649">1. Lorem ipsum dolor sit amet, consectetur </tspan><tspan
+         x="49.865234"
+         y="142.65911"
+         id="tspan7651">adipiscing elit, sed do eiusmod tempor </tspan><tspan
+         x="49.865234"
+         y="148.83274"
+         id="tspan7653">incididunt ut labore et dolore magna aliqua.
+</tspan><tspan
+         x="49.865234"
+         y="155.00637"
+         id="tspan7655">2. Ut enim ad minim veniam, quis nostrud </tspan><tspan
+         x="49.865234"
+         y="161.18"
+         id="tspan7657">exercitation ullamco laboris nisi ut aliquip ex </tspan><tspan
+         x="49.865234"
+         y="167.35363"
+         id="tspan7659">ea commodo consequat.
+</tspan><tspan
+         x="49.865234"
+         y="173.52726"
+         id="tspan7661">3. Duis aute irure dolor in reprehenderit in </tspan><tspan
+         x="49.865234"
+         y="179.70089"
+         id="tspan7663">voluptate velit esse cillum dolore eu fugiat </tspan><tspan
+         x="49.865234"
+         y="185.87452"
+         id="tspan7665">nulla pariatur. Excepteur sint occaecat </tspan><tspan
+         x="49.865234"
+         y="192.04815"
+         id="tspan7667">cupidatat non proident, sunt in culpa qui </tspan><tspan
+         x="49.865234"
+         y="198.22178"
+         id="tspan7669">officia deserunt mollit anim id est laborum</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'Smirnof';-inkscape-font-specification:'Smirnof';text-align:start;white-space:pre;shape-inside:url(#rect7537);display:inline"
+       x="-10.399758"
+       y="0"><tspan
+         x="187.24414"
+         y="408.47476"
+         id="tspan7671">0123456789
+</tspan><tspan
+         x="187.24414"
+         y="431.80814"
+         id="tspan7673">1234567890
+</tspan><tspan
+         x="187.24414"
+         y="455.14151"
+         id="tspan7675">2345678901
+</tspan><tspan
+         x="187.24414"
+         y="478.47489"
+         id="tspan7677">3456789012
+</tspan><tspan
+         x="187.24414"
+         y="501.80826"
+         id="tspan7679">4567890123
+</tspan><tspan
+         x="187.24414"
+         y="525.14163"
+         id="tspan7681">ABCDEFGHIJ
+</tspan><tspan
+         x="187.24414"
+         y="548.47501"
+         id="tspan7683">KLMNOPQRST
+</tspan><tspan
+         x="187.24414"
+         y="571.80838"
+         id="tspan7685">UVWXYZ</tspan></text>
+  </g>
+</svg>
