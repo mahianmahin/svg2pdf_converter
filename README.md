@@ -35,4 +35,4 @@ docker run --rm -it -v $(pwd):/app <image_name> /bin/bash
 
 >Don't change the key names of the json file
 
->Add the font files you want to use in the 'fonts' directory and it will get installed during docker image building 
+>Add the font files you want to use in the root directory and it will get installed during docker image building 
