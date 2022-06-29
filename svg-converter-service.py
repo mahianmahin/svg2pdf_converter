@@ -68,7 +68,7 @@ def svg_to_pdf():
 
 	# checking if the title is too big 
 	if len(dict['text:title']) >= 20:
-		print(len(dict['text:title']))
+		
 		# reducing the font size
 		previous_style = title_box[0].attrib['style']
 		title_box[0].attrib['style'] = f"{previous_style}; font-size:4.46667px;"
